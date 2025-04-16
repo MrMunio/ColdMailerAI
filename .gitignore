@@ -1,0 +1,62 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+extractions/
+output/
+temp/
+.Python
+env/
+venv/
+.venv/
+ENV/
+dist/
+build/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# IPython
+profile_default/
+ipython_config.py
+
+# Environments
+.env
+.venv
+venv
+env
+
+# dotenv
+.flaskenv
+
+# virtualenv
+*.pth
+*.pyc
+*.pyo
+
+# Project-specific
+streamlit_app.log  # Example log file name - adjust as needed
+data/ # If you have a 'data' directory you don't want to commit (adjust to your actual directory names)
+secrets/ # if you have secrets stored locally
+
+# OS generated files #
+.DS_Store
+Thumbs.db
