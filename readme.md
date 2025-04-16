@@ -63,8 +63,8 @@ GOOGLE_APP_PASSWORD=""
 ## 📦 Installation
 1. Clone the repository:
 ```bash
-git clone <your-repo-url>
-cd <your-repo-dir>
+git clone https://github.com/MrMunio/ColdMailer-AI.git
+cd ColdMailer-AI
 ```
 
 2. Create and activate a virtual environment (optional but recommended):
