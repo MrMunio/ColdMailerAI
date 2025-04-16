@@ -1,4 +1,4 @@
-# ColdMailer-AI: AI-Powered Business Outreach Automation
+# ColdMailerAI: AI-Powered Business Outreach Automation
 
 ## 📂 About this Project
 This Streamlit application automates business outreach by scraping company emails from a target industry in a specific locality using advanced AI and Web scraping techniques, generating tailored emails using an LLM model, and sending them using your Gmail account. It is accurate, modular, user-friendly, and efficient.
