@@ -20,7 +20,7 @@ Before starting:
 - Click the **Scrape Emails** button.
 - The app will display company name, email, phone (optional), and a brief about their offerings.
 
-![Step 1](documentation\coldmailer_AI_page_1.png)
+![Step 1](documentation/coldmailer_AI_page_1.png)
 
 ### 2️⃣ Step 2 - Compose Personalized Emails
 - Click **Step 2** in the side panel.
@@ -28,7 +28,7 @@ Before starting:
 - Click **Compose Emails**.
 - Personalized emails will be shown on the UI for each target company.
 
-![Step 2](documentation\coldmailer_AI_page_2.png)
+![Step 2](documentation/coldmailer_AI_page_2.png)
 
 ### 3️⃣ Step 3 - Send Emails
 - Click **Step 3** in the side panel.
@@ -36,7 +36,7 @@ Before starting:
 - [Learn how to create a Google App Password](https://support.google.com/accounts/answer/185833?hl=en).
 - Emails will be sent to the scraped contacts.
 
-![Step 3](documentation\coldmailer_AI_page_3.png)
+![Step 3](documentation/coldmailer_AI_page_3.png)
 
 ## 🔐 Set Environment Variables
 The app uses a `.env` file. You can populate it as follows:
